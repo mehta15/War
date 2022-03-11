@@ -5,7 +5,7 @@
 package war;
 
 /**
- * Team: Runtime Terrors
+ * Team: Runtime Terror
  * @author Karan Mehta
  */
 public class War {
